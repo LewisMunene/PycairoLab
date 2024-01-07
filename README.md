@@ -26,7 +26,11 @@ cd Pycairolab
 python Circle.py
 python Polygons.py
 ```
+### Contributing
+If you'd like to contribute to this project, please follow standard guidelines for contributions and submit a pull request.
 
+### Contact
+For inquiries or suggestions, contact the project maintainers via lewis.muthee@strathmore.edu
 
 
 
