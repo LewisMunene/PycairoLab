@@ -9,6 +9,26 @@ Class project is based on Computer Graphics that uses Python to create different
 - Math Library
 
 ## Project Setup
-### Clone the repository
+1.Clone the repository
 ```bash
-git clone https://github.com/your-username/project-name.git
+git clone https://github.com/LewisMunene/PycairoLab.git
+```
+2. Navigate to project Directory
+```bash
+cd Pycairolab
+```
+3. Install the required Libraries
+   ```
+   pip install -r requirements.txt
+   ```
+4. Run the program (Dependent on which file you want to run)
+ ```bash
+python Circle.py
+python Polygons.py
+```
+
+
+
+
+
+
